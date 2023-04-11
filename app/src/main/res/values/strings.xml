@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Room_SQL_MVVM</string>
+    <string name="addButton">Add</string>
+    <string name="clearButton">Clear</string>
+</resources>
